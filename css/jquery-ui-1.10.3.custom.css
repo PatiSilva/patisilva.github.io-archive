@@ -175,7 +175,7 @@
 	color: #222222;
 }
 
-/*THIS IS WHAT I NEED TO CUSTOMIZE TO REMOVE THE GRAY.  I want the border to be #d3d3d3 and 
+/*THIS IS WHAT I NEED TO CUSTOMIZE TO REMOVE THE GRAY in each image box.  I want the border to be #d3d3d3 and 
 remove #cccccc for the background color.  I need to replace the image so that the slider can be another color */
 .ui-widget-header {
 	border: 1px solid #ff2424;
